@@ -1,19 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/galaxy-surveys/</loc>
-        <lastmod>2012-10-01T02:48:46+08:00</lastmod>
+        <loc>
+            http://CosmologyTaskForce.github.com/CosmologySurveys/blog/Galaxy
+            Surveys/Cosmological Surveys/galaxy-surveys/
+        </loc>
+        <lastmod>2012-10-01T18:17:34+08:00</lastmod>
     </url>
     <url>
-        <loc>http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/cosmic-background/</loc>
-        <lastmod>2012-10-01T00:50:01+08:00</lastmod>
+        <loc>http://CosmologyTaskForce.github.com/CosmologySurveys/blog/cosmic-background/</loc>
+        <lastmod>2012-10-01T18:17:34+08:00</lastmod>
     </url>
     <url>
-        <loc>http://CosmologyTaskForce.github.com/CosmologyTaskForce/</loc>
-        <lastmod>2012-10-01T02:48:46+08:00</lastmod>
+        <loc>http://CosmologyTaskForce.github.com/CosmologySurveys/</loc>
+        <lastmod>2012-10-01T18:17:34+08:00</lastmod>
     </url>
     <url>
-        <loc>http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/archives/</loc>
-        <lastmod>2012-10-01T02:48:46+08:00</lastmod>
+        <loc>http://CosmologyTaskForce.github.com/CosmologySurveys/blog/archives/</loc>
+        <lastmod>2012-10-01T18:17:34+08:00</lastmod>
     </url>
 </urlset>

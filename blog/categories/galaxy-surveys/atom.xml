@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Cosmology Taskforce]]></title>
-  <link href="http://CosmologyTaskForce.github.com/CosmologySurveys/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Galaxy Surveys | Cosmology Taskforce]]></title>
+  <link href="http://CosmologyTaskForce.github.com/CosmologySurveys/blog/categories/galaxy-surveys/atom.xml" rel="self"/>
   <link href="http://CosmologyTaskForce.github.com/CosmologySurveys/"/>
   <updated>2012-10-01T18:26:22+08:00</updated>
   <id>http://CosmologyTaskForce.github.com/CosmologySurveys/</id>
@@ -12,15 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Cosmic Background]]></title>
-    <link href="http://CosmologyTaskForce.github.com/CosmologySurveys/blog/cosmic-background/"/>
-    <updated>2012-10-01T00:48:00+08:00</updated>
-    <id>http://CosmologyTaskForce.github.com/CosmologySurveys/blog/cosmic-background</id>
-    <content type="html"><![CDATA[<p>This is a post for cosmic background radiation surveys.</p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Galaxy Surveys]]></title>
