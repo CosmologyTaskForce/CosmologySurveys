@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Cosmology Taskforce]]></title>
+  <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/atom.xml" rel="self"/>
+  <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/"/>
+  <updated>2012-10-01T03:12:54+08:00</updated>
+  <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/</id>
+  <author>
+    <name><![CDATA[Marvin]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Cosmic Background]]></title>
+    <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/cosmic-background/"/>
+    <updated>2012-10-01T00:48:00+08:00</updated>
+    <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/cosmic-background</id>
+    <content type="html"><![CDATA[<p>This is a post for cosmic background radiation surveys.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Galaxy Surveys]]></title>
+    <link href="http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/galaxy-surveys/"/>
+    <updated>2012-10-01T00:09:00+08:00</updated>
+    <id>http://CosmologyTaskForce.github.com/CosmologyTaskForce/blog/galaxy-surveys</id>
+    <content type="html"><![CDATA[<p><strong>This is a list of experiments that can be used to probe gravity properties or the properties of the universe.</strong></p>
+
+<!-- more -->
+
+<h2 id="cfa-redshift-survey">CfA Redshift Survey</h2>
+
+<p><strong>CfA Redshift Survey</strong> is the first redshift survey. Check the link: <a href="http://www.cfa.harvard.edu">http://www.cfa.harvard.edu</a></p>
+
+<h2 id="df-galaxy-redshift">2dF Galaxy Redshift</h2>
+
+<p><a href="http://en.wikipedia.org/wiki/2dF_Galaxy_Redshift_Survey">Wikipedia</a>; <a href="http://www2.aao.gov.au/2dFGRS">offical site</a></p>
+
+<p><strong>2dFGRS</strong>, spectroscopic survey, is integrated with the 2dF QSO survey.</p>
+
+<ul>
+  <li>
+    <p>Objects:245591, mainly galaxies, brighter than a nominal extinction-corrected magnitude limit of $b_J = 19.45$. Reliable (quality&gt;=3) redshifts were obtained for 221414 galaxies.</p>
+  </li>
+  <li>
+    <p>Area, 1500 square degrees. A figure from official site is shown below.
+<img src="http://cosmologytaskforce.github.com/CosmologyTaskForce/images/galaxy-surveys/2dFGRS_Survey_Map_Small.gif" alt="2dFGRSSurveyMap" /></p>
+  </li>
+  <li>
+    <p>Galaxy distribution results from completed survey:
+<img src="http://cosmologytaskforce.github.com/CosmologyTaskForce/images/galaxy-surveys/2dFzcone.gif" alt="2dFGRSzCone" /></p>
+  </li>
+</ul>
+
+<p><strong>2dF QSO Redshift Survey</strong>, 2QZ. Already integrated into 2dFGRS.</p>
+
+<ul>
+  <li>Objects: Magnitude limits are $18.25&lt;b_J&lt;20.85$. Color selection is $u-b_J$ vs. $b_J-r$ plane.
+<img src="http://cosmologytaskforce.github.com/CosmologyTaskForce/images/galaxy-surveys/2QZ_col_sel.gif" alt="2QZColDel" /></li>
+  <li>Area:
+<img src="http://cosmologytaskforce.github.com/CosmologyTaskForce/images/galaxy-surveys/2QZ_regions.gif" alt="2QZRegions" /></li>
+</ul>
+
+<p><strong>6dF QSO Redshift Survey</strong></p>
+
+<ul>
+  <li>Objects: limits $16.0&lt;b_J&lt;18.25$.</li>
+</ul>
+
+<h2 id="mass-redshift-survey">2 MASS Redshift Survey</h2>
+
+<p><strong>2MASS</strong>, the <a href="http://www.ipac.caltech.edu/2mass">Two Micron All Sky Survey</a>, “is designed to close the gap between our current technical capability and our knowledge of the near-infared sky. In addition to providing a contex for the interpretation of results obtained at infrared and other wavelengths.” It shows the large-scale structure of the Milky Way and the Local universe.</p>
+
+<ul>
+  <li>Objects: Limited. to local universe.</li>
+  <li>Area: All sky scanning</li>
+  <li>Band: 3 near-infared bands.</li>
+  <li>Reslution: pixel size 2.0”.RNR&gt;10.</li>
+</ul>
+
+<p><strong>2MRS</strong>, the 2MASS Redshif Survey, aims to map the distribution of galaxies and dark matter in the local universe, based on galaxy selectian of 2MASS.</p>
+
+<ul>
+  <li>Objects: Aim to 45000 galaxies up to K=11.75mag. This is completed.</li>
+  <li>Redshift out to $z=0.03$ (mean value), or equivalently to 115Mpc/370 million light-years.</li>
+  <li>
+    <p>Band: near infra-red J,H and K-band.</p>
+  </li>
+  <li>All sky map of local universe in infared
+<img src="http://cosmologytaskforce.github.com/CosmologyTaskForce/images/galaxy-surveys/2MRS_Local_Universe_Infared.jpg" alt="The Infared Local Universe" /></li>
+</ul>
+
+<h2 id="vla-first-survey">VLA FIRST Survey</h2>
+
+<p><strong>VLA FIRST Survey</strong>: <a href="sundog.stsci.edu/index.html">Faint Images of the Radio Sky at Twenty-cm using NRAO Vary Large Array</a>.</p>
+
+<blockquote>
+  <p>Aim in one sentence:
+‘designed to produce the radio equivalent of the Palomar Observatory Sky Survey over 10,000 square degrees of the North and South Galactic Caps.</p>
+</blockquote>
+
+<ul>
+  <li>Objects: </li>
+  <li>Facility: VLA in B-configuration</li>
+  <li>Area: Over 10,000 square degrees of the North and South Galactic Caps.</li>
+  <li>Band: Two channels centered at 1365 MHz and 1435 MHz. In Spring 2011, changed due to EVLA updates.</li>
+  <li>Resolution: Final atlas of maps have a resolution of 5’’. </li>
+</ul>
+
+<h2 id="ediscs">EDisCS</h2>
+
+<p><strong>EDisCS</strong>: <a href="http://www.mpa-garching.mpg.de/galform/ediscs/">ESO Distant Clusters Survey</a></p>
+
+<ul>
+  <li>Objects: galaxies in rich clusters.</li>
+  <li>Facility:</li>
+  <li>Distance: z~0.5 and z&gt;0.8</li>
+  <li>Area:</li>
+  <li>Band:</li>
+</ul>
+
+<h2 id="sloan-digital-sky-survey">Sloan Digital Sky Survey</h2>
+
+<p><strong>SDSS</strong>: <a href="http://www.sdss.org">Sloan Digital Sky Survey</a></p>
+
+<h2 id="galaxy-and-mass-assembly-survey">Galaxy And Mass Assembly Survey</h2>
+
+<h2 id="deep2-redshift-survey-high-redshift">DEEP2 Redshift Survey, high redshift</h2>
+
+<h2 id="vimos-vlt-deep-survey-high-redshift">VIMOS-VLT Deep Survey, high redshift</h2>
+
+<hr />
+
+<h2 id="references">References:</h2>
+<ol>
+  <li>Probes of Large Scale Structure: <a href="http://astro.berkeley.edu/~mwhite/probes-lss.html">http://astro.berkeley.edu/~mwhite/probes-lss.html</a></li>
+</ol>
+]]></content>
+  </entry>
+  
+</feed>
